@@ -26,6 +26,8 @@
     { "number": "102", "name": "FOX SPORTS 2 HD", "logo": "logos/fox-sports-2-ar.png" },
     { "number": "103", "name": "FOX SPORTS 3 HD", "logo": "logos/fox-sports-3-ar.png" },
     { "number": "104", "name": "Claro Sports", "logo": "logos/claro-sports-ar.png" },
+    { "number": "105", "name": "DSports", "logo": "logos/dsports-lam.png" },    
+    { "number": "106", "name": "DSports 2", "logo": "logos/dsports2-lam.png" },        
     { "number": "109", "name": "TNT Spots HD", "logo": "logos/tnt-sports-ar.png" },
     { "number": "110", "name": "ESPN Premium HD", "logo": "logos/espn-premium-ar.png" },
     { "number": "111", "name": "TYC SPORTS 2", "logo": "logos/tyc-sports-2-ar.png" },
